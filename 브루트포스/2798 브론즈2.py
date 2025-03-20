@@ -1,4 +1,4 @@
-from itertools import combinations
+from itertools import *
 
 n, m = map(int, input().split())
 cards = list(map(int, input().split()))
