@@ -4,7 +4,6 @@ box = 0
 
 while True:
     if N % 5 == 0:
-        print("333 ", N)
         box = box + (N // 5)
         print(box)
         break
